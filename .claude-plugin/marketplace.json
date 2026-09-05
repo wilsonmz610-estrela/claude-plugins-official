@@ -19,7 +19,7 @@
         "url": "https://github.com/42Crunch-AI/claude-plugins.git",
         "path": "plugins/api-security-testing",
         "ref": "v1.5.5",
-        "sha": "c2951754af2b811955957d22716844b5a3c016e9"
+        "sha": "30287f5e3f122a646d1ac5ca3ab96e130c52a3ad"
       },
       "homepage": "https://42crunch.com"
     },
